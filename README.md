@@ -1,2 +1,2 @@
-# ece160assignment1
-Calc.c
+# First Assignment
+Calculator: Calc.c
